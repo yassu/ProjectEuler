@@ -20,6 +20,5 @@ func getLargestFactor(n int) int {
 }
 
 func main() {
-	fmt.Println([]int{1, 2, 3})
 	fmt.Println(getLargestFactor(600851475143))
 }
